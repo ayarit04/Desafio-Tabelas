@@ -1,0 +1,35 @@
+
+
+.table-moda {
+    width: 300px;
+    color: white;
+    text-align: center;
+    border-collapse: collapse; 
+    border: 2px solid white
+
+}
+.table-casa {
+    width: 200px;
+    color: white;
+    text-align: center;
+    border-collapse: collapse; 
+    border: 1px solid white 
+
+}
+
+.tr , .td , .th {
+    border: 2px solid white;
+    padding: 5px; colo
+}
+
+.td {background-color: #424250;
+}
+
+.th-moda {background-color: #BB86FC;
+    border: 2px solid white;
+    padding: 5px
+}
+.th-casa {background-color: #00C4B4;
+    border: 2px solid white;
+    padding: 5px
+}
